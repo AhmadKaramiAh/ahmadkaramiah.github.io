@@ -1,8 +1,8 @@
 @font-face {
     font-family: 'iransans';
-    src: url('/font/iransansweb.ttf');
-    src: url('font/iransansweb.eot');
-    src: url('font/iransansweb.woff');
+    src: url('iransansweb.ttf');
+    src: url('iransansweb.eot');
+    src: url('iransansweb.woff');
 }
 
 /* ---body--- */
